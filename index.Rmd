@@ -15,3 +15,6 @@ What if I add some text here ... ?
 Sometimes I use [google](https:./www.google.com/) tp do data science when I'm stuck.
 
 If you'd like to learn more about this website, visit [this page](about.html).
+
+Now I can put stuff on the internet
+
