@@ -1,0 +1,17 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+What if I add some text here ... ?
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+Sometimes I use [google](https:./www.google.com/) tp do data science when I'm stuck.
+
+If you'd like to learn more about this website, visit [this page](about.html).
